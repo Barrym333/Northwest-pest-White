@@ -396,7 +396,7 @@ header {
     .nav-menu {
         display: none;
         flex-direction: column;
-        background-color: black;
+        background-color: white;
         position: absolute;
         top: 60px;
         left: 0;
